@@ -9,6 +9,8 @@ My LeetCode solutions
 - 904
 - 2461
 - 2932
+- 1876
+- 1652
 
 ### Two pointers
 - 27
