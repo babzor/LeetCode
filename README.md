@@ -4,8 +4,9 @@ My LeetCode solutions
 
 ## Exercises by patterns
 
-### Others (Hash table, sort, string)
+### Others (Hash table, string, array, sorting)
 - 242
+- 217
 
 ### Sliding window
 - 643
